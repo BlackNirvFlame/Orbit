@@ -14,7 +14,7 @@
     
 }
 .page{
-    height: 3000px;
+    height: 2000px;
     width: max(980px,100%);
     background-image: url(Assets/background.JPG);
     background-size: cover;
